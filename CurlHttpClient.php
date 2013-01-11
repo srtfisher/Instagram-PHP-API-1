@@ -4,7 +4,7 @@ class CurlHttpClient {
      * Default User-Agent
      * @var string
      */
-    const DEFAULT_USER_AGENT = 'Instagram PHP Implementation http://mauriciocuenca.com/';
+    const DEFAULT_USER_AGENT = 'Instagram PHP Implementation';
 
     /**
      * Used HTTP request methods
